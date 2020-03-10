@@ -11,5 +11,5 @@ This [GitHub Action](https://github.com/features/actions) will build [JSDoc](htt
 ```yaml
 uses: brunokrauss/jsdoc-action@v1
 with:
-    jsdoc-path: 'server'
+    jsdoc-path: 'src'
 ```

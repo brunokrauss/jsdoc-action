@@ -4,10 +4,6 @@ author: brunokrauss
 branding:
   icon: book-open
   color: gray-dark
-runs:
-  using: node12
-  main: dist/index.js
-  
 inputs:
   jsdoc-path:
     description: 'Path to Javascript File'

@@ -1,5 +1,3 @@
-# jsdoc-action
-
 # JSDoc Docker Action
 This [GitHub Action](https://github.com/features/actions) will build [JSDoc](https://jsdoc.app/) docs of a defined source directory.
 

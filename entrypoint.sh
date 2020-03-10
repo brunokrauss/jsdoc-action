@@ -3,4 +3,4 @@ if [ ! -f $1 ]; then
     echo "File $1 could not be found!"
 fi
 
-jsdoc $1
+jsdoc -r $1

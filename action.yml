@@ -8,7 +8,7 @@ inputs:
   jsdoc-path:
     description: 'Path to Javascript File'
     required: true
-    default: './index.js'
+    default: 'src'
 runs:
   using: 'docker'
   image: 'Dockerfile'

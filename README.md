@@ -7,7 +7,7 @@ This [GitHub Action](https://github.com/features/actions) will build [JSDoc](htt
 
 ## Example usage
 ```yaml
-uses: brunokrauss/jsdoc-action@v1
+uses: brunokrauss/jsdoc-action@1
 with:
     jsdoc-path: 'src'
 ```
